@@ -2,10 +2,10 @@
 
 ## 📋 Thông tin dự án
 
-**Sinh viên:** [Thay đổi tên sinh viên ở đây]  
-**MSSV:** [Thay đổi MSSV ở đây]  
-**Lớp:** [Thay đổi lớp ở đây]  
-**Môn học:** Phát triển ứng dụng di động  
+**Sinh viên:** Bùi Quốc Tuấn 
+**MSSV:** 22IT324 
+**Lớp:** 22SE2 
+**Môn học:** Phát triển ứng dụng di động đa nền tảng
 **Đề bài:** ĐỀ 6 - Ứng dụng Theo dõi Nước uống (Water Tracker)
 
 ## 🎯 Mô tả ứng dụng
